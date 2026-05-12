@@ -63,7 +63,7 @@ Superstore_sales/
 ├── SQL/                        # zapytania analityczne
 │   └── Superstore-dataset-analysis.sql
 ├── Excel/                      # mini-dashboard Excel
-│   └── Porper_project.xlsx
+│   └── Sales_superstore_analiza.xlsx
 ├── Power BI/                   # raport Power BI
 │   └── sales_superstore.pbix
 ├──── storyboard.md  # dokumentacja projektu                     
